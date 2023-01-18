@@ -14,6 +14,6 @@
 * I use HPC for large scale data processing;
 * I am R enthiast, which I primary for data cleaning, wrangling and visualization in the tidyverse ecosystem; 
 * I use BASH and python for scripting writing workflows and reformatting data;
-* Both Conda and nextflow are good friends of mine;
+* Both Conda and Nextflow are good friends of mine;
 * I BASH and python for scripting writing workflows and reformatting data;
 * I advocate for reproducible research and open science by making my worklows and pipelien as reprocdicele as posible and my data FAIR.
