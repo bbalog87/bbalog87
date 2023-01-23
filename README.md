@@ -10,7 +10,7 @@
 ### Welcome, I am Julien!
 
 * I'm a trained bioinformatician and currently a computational Scientist at the Bernard-Nocht Institute (BNI) for Tropical Medicine
-* I integarte well-established NGS technologies for microbial & animal genome assembly and annotation;
+* I integrate well-established NGS technologies for microbial & animal genome assembly and annotation;
 * I use HPC for large scale data processing;
 * I am R enthiast, which I primary leverage for data cleaning, wrangling and visualization in the tidyverse ecosystem; 
 * I use BASH and python for scripting pipeline and reformatting data;
