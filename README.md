@@ -12,7 +12,7 @@
 * I'm a trained bioinformatician and currently a computational Scientist at the Bernard-Nocht Institute (BNI) for Tropical Medicine
 * I integrate well-established NGS technologies for microbial & animal genome assembly and annotation;
 * I use HPC for large scale data processing;
-* I am R enthiast, which I primary leverage for data cleaning, wrangling and visualization in the tidyverse ecosystem; 
+* I am R enthiast, which I primarily leverage for data cleaning, wrangling and visualization in the tidyverse ecosystem; 
 * I use BASH and python for scripting pipeline and reformatting data;
 * Both Conda and Nextflow are good friends of mine;
 * I leverage BASH and python for developing workflows;
